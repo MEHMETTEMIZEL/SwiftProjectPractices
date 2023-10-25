@@ -1,2 +1,2 @@
 # iOS-AngelYu-UdemyPractices
-This repository includes some projects about iOS Projects that I trying to write from an Udemy Course.
+This repository includes some iOS projects that I'm following them from an Udemy Course.
